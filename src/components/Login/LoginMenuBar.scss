@@ -1,0 +1,30 @@
+.loginMenuBarContainer {
+    position: absolute;
+    right: 20px;
+    top: 0;
+    display: flex;
+}
+.state{
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 100;
+    margin: 10px 15px 0 0;
+}
+.batteryLogo {
+    color: white;
+    font-size: 20px;
+    margin: 3px 15px 0 0;
+}
+.wifiLogo {
+    color: white;
+    font-size: 18px;
+    margin: 5px 15px 0 0;
+}
+.date {
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
